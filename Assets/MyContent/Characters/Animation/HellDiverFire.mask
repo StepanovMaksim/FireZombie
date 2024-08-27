@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HellDiverFire
+  m_Mask: 01000000000000000000000001000000010000000000000000000000000000000000000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: 2Hand Target
+    m_Weight: 1
+  - m_Path: HellDiver_01a
+    m_Weight: 1
+  - m_Path: Hips
+    m_Weight: 1
+  - m_Path: Hips/Leg Upper L
+    m_Weight: 1
+  - m_Path: Hips/Leg Upper L/Leg Lower L
+    m_Weight: 1
+  - m_Path: Hips/Leg Upper L/Leg Lower L/Foot L
+    m_Weight: 1
+  - m_Path: Hips/Leg Upper L/Leg Lower L/Foot L/Foot Finger L
+    m_Weight: 1
+  - m_Path: Hips/Leg Upper L/Leg Lower L/Foot L/Krosovok L
+    m_Weight: 1
+  - m_Path: Hips/Leg Upper R
+    m_Weight: 1
+  - m_Path: Hips/Leg Upper R/Leg Lower R
+    m_Weight: 1
+  - m_Path: Hips/Leg Upper R/Leg Lower R/Foot R
+    m_Weight: 1
+  - m_Path: Hips/Leg Upper R/Leg Lower R/Foot R/Foot Finger R
+    m_Weight: 1
+  - m_Path: Hips/Leg Upper R/Leg Lower R/Foot R/Krosovok R
+    m_Weight: 1
+  - m_Path: Hips/Spine 1
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle L
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle L/Hand Upper L
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle L/Hand Upper L/Hand Lower L
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle L/Hand Upper L/Hand Lower L/Hand L
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle L/Hand Upper L/Hand Lower L/Hand L/Index
+      Finger 1 L
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle L/Hand Upper L/Hand Lower L/Hand L/Index
+      Finger 1 L/Index Finger 2 L
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle L/Hand Upper L/Hand Lower L/Hand L/Index
+      Finger 1 L/Index Finger 2 L/Index Finger 3 L
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle L/Hand Upper L/Hand Lower L/Hand L/Little
+      Finger 1 L
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle L/Hand Upper L/Hand Lower L/Hand L/Little
+      Finger 1 L/Little Finger 2 L
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle L/Hand Upper L/Hand Lower L/Hand L/Little
+      Finger 1 L/Little Finger 2 L/Little Finger 3 L
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle L/Hand Upper L/Hand Lower L/Hand L/Middle
+      Finger 1 L
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle L/Hand Upper L/Hand Lower L/Hand L/Middle
+      Finger 1 L/Middle Finger 2 L
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle L/Hand Upper L/Hand Lower L/Hand L/Middle
+      Finger 1 L/Middle Finger 2 L/Middle Finger 3 L
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle L/Hand Upper L/Hand Lower L/Hand L/Ring
+      Finger 1 L
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle L/Hand Upper L/Hand Lower L/Hand L/Ring
+      Finger 1 L/Ring Finger 2 L
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle L/Hand Upper L/Hand Lower L/Hand L/Ring
+      Finger 1 L/Ring Finger 2 L/Ring Finger 3 L
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle L/Hand Upper L/Hand Lower L/Hand L/Thumb
+      1 L
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle L/Hand Upper L/Hand Lower L/Hand L/Thumb
+      1 L/Thumb 2 L
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle R
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle R/Hand Upper R
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle R/Hand Upper R/Hand Lower R
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle R/Hand Upper R/Hand Lower R/Hand R
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle R/Hand Upper R/Hand Lower R/Hand R/Index
+      Finger 1 R
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle R/Hand Upper R/Hand Lower R/Hand R/Index
+      Finger 1 R/Index Finger 2 R
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle R/Hand Upper R/Hand Lower R/Hand R/Index
+      Finger 1 R/Index Finger 2 R/Index Finger 3 R
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle R/Hand Upper R/Hand Lower R/Hand R/Little
+      Finger 1 R
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle R/Hand Upper R/Hand Lower R/Hand R/Little
+      Finger 1 R/Little Finger 2 R
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle R/Hand Upper R/Hand Lower R/Hand R/Little
+      Finger 1 R/Little Finger 2 R/Little Finger 3 R
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle R/Hand Upper R/Hand Lower R/Hand R/Middle
+      Finger 1 R
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle R/Hand Upper R/Hand Lower R/Hand R/Middle
+      Finger 1 R/Middle Finger 2 R
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle R/Hand Upper R/Hand Lower R/Hand R/Middle
+      Finger 1 R/Middle Finger 2 R/Middle Finger 3 R
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle R/Hand Upper R/Hand Lower R/Hand R/Ring
+      Finger 1 R
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle R/Hand Upper R/Hand Lower R/Hand R/Ring
+      Finger 1 R/Ring Finger 2 R
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle R/Hand Upper R/Hand Lower R/Hand R/Ring
+      Finger 1 R/Ring Finger 2 R/Ring Finger 3 R
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle R/Hand Upper R/Hand Lower R/Hand R/Thumb
+      1 R
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Clavicle R/Hand Upper R/Hand Lower R/Hand R/Thumb
+      1 R/Thumb 2 R
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Nick
+    m_Weight: 1
+  - m_Path: Hips/Spine 1/Spine 2/Nick/Head
+    m_Weight: 1
